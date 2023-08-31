@@ -18,15 +18,15 @@ The goal of this project is to analyze customer behavior and predict customer ch
 
 ## Data Analysis with Power BI
 
-In the initial phase, we used Power BI to perform exploratory data analysis on the customer data. This allowed us to gain insights into customer behavior, purchasing patterns, and potential factors contributing to churn. Visualizations and dashboards were created to present the findings in an interactive and informative manner.
+In the initial phase, we used Power BI to perform exploratory data analysis on the customer data. This allowed us to gain insights into customer behavior and potential factors contributing to churn. Visualizations and dashboards were created to present the findings in an interactive and informative manner.
 
 ## Data Cleaning with Python
 
-Following the data analysis, the raw data was preprocessed and cleaned using Python. This involved handling missing values, data transformation, and feature engineering to prepare the dataset for machine learning model training.
+Following the data analysis, the raw data was preprocessed and cleaned using Python. This involved handling missing values, data transformation, handling imbalance data and feature engineering to prepare the dataset for machine learning model training.
 
 ## Machine Learning for Churn Prediction
 
-Machine learning algorithms were employed to build a predictive model for customer churn. We used techniques such as logistic regression, decision trees, and random forests to train and evaluate the model's performance. Cross-validation and hyperparameter tuning were applied to ensure the model's reliability.
+Machine learning algorithms were employed to build a predictive model for customer churn. We used techniques such as logistic regression, KNN, SVC, XGB and Random forests to train and evaluate the model's performance.
 
 ## Project Deployment
 
