@@ -1,4 +1,5 @@
 # Ecommerce-Customer-Churn-Analysis-and-Prediction
 
-![Alt Text](C:\Users\ericm\Pictures\Screenshots\Screenshot 2023-08-31 135327.png)
-![Uploading image.png…]()
+![Deployment](https://github.com/EricMohandhas/Ecommerce-Customer-Churn-Analysis-and-Prediction/assets/125111159/2f1bedb8-1026-4591-a780-ec9b8ddbb535)
+
+
